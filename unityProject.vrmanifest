@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.steamvr_test_2021.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "J:\\Material EstudioTrabajo\\MasterD\\Modulo Programacion\\SteamVR_Test_2021\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SteamVR_Test_2021 [Testing]"
+        }
+      }
+    }
+  ]
+}
